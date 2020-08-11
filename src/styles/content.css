@@ -1,0 +1,40 @@
+.content{
+    margin: 5;
+    padding: 5;
+    /* background-color: aquamarine; */
+    display: inline-table;
+}
+
+.list{
+    background-color: azure;
+    margin: 5;
+    padding: 5;
+    display: block;
+    width:100%;
+
+}
+body{
+    margin: 20px;
+    padding:5;
+    background-color:#eee;
+
+}
+
+.container{
+    /* background-color: bisque; */
+    margin-top: 20px;
+    width: 400px;
+}    
+
+.category-text-wrap{
+    margin: 10px;
+    height: 200px;
+    line-height: 200px;
+    font-size: 38px;
+    font-weight: lighter;
+    border: 1px initial black;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+

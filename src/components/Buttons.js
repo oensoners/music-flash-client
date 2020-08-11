@@ -38,8 +38,9 @@ const Buttons = (props) => {
 			fullWidth={full ? true : false}
 			className={classes.btn + ' ' + (light ? classes.btnLight : classes.btnDark)}
 		>
-			{content}
+		{content}
 		</Button>
+		
 	)
 };
 
